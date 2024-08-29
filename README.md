@@ -18,11 +18,14 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;
@@ -30,6 +33,7 @@
   <img src="https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
   <img src="https://img.shields.io/badge/kibana-EF3B2C?style=for-the-badge&logo=kibana&logoColor=white" />&nbsp;
 
+</div>
 </div>
 
 <br>
