@@ -49,8 +49,8 @@
 <br><br>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=SeokCheol-Lee&show_icons=true&theme=graywhite" width=55% />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeokCheol-Lee&layout=compact" width=41%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SeokCheol-Lee&show_icons=true&theme=graywhite"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeokCheol-Lee&layout=compact"/>
 </div>
 
 
