@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:bdc3c7&height=300&section=header&text=Hi%20There!%20I'm%20Seokcheol%20👋&fontSize=60&fontAlignY=35&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:bdc3c7&height=200&section=header&text=Hi%20There!%20I'm%20Seokcheol%20👋&fontSize=60&fontAlignY=35&animation=fadeIn)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
