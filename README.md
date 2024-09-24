@@ -56,6 +56,6 @@
 <br>
 
 # 🎨 Portfolio 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeokCheol-Lee&repo=My-Projects-Portfolio&cache_seconds=3600)](https://github.com/SeokCheol-Lee/My-Projects-Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeokCheol-Lee&repo=My-Projects-Portfolio&cache_seconds=3600&size_weight=10)](https://github.com/SeokCheol-Lee/My-Projects-Portfolio)
 
 
