@@ -58,4 +58,4 @@
 # 🎨 Portfolio 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeokCheol-Lee&repo=My-Projects-Portfolio&cache_seconds=3600&size_weight=10)](https://github.com/SeokCheol-Lee/My-Projects-Portfolio)
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeokCheol-Lee&count_bg=%23A5E871&title_bg=%2389EAEA&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
