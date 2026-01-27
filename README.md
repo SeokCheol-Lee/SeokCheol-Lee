@@ -6,18 +6,12 @@
 
 <table>
   <tr>
-    <td align="center" width="150px"><b>Mobile</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-      <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
     <td align="center"><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
     </td>
   </tr>
